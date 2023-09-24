@@ -32,7 +32,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/yourusername/multisource-ecg-classification.git
+   git clone https://github.com/sdnjly/multisource-ecg-classification.git
    cd multisource-ecg-classification
    ```
 
