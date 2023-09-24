@@ -1,0 +1,15 @@
+{
+    "name":"rsc_train",
+    "input_shape": [224, 224, 3],
+    "buffer_size": 2500,
+    
+    "percentile": 66,
+    "batch_percentage": 33,
+    
+    "lr": 0.004,
+    "batch_size": 64,    
+    "epochs": 30,
+    
+    "random_state": 42
+    
+}
